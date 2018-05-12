@@ -1,0 +1,38 @@
+_repo: The-Bibliotaph-and-Other-People_21272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vincent, Leon H. (Leon Henry)
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '9817'
+    url: http://www.gutenberg.org/2009/agents/9817
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lyly, John, 1554?-1606'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894'
+- !lcc 'PN'
+- !lcsh 'Keats, John, 1795-1821'
+- !lcsh 'Priestley, Joseph, 1733-1804'
+- !lcsh 'Gautier, Théophile, 1811-1872'
+- !lcsh 'Book collectors'
+- !lcsh 'Hardy, Thomas, 1840-1928'
+tableOfContents: The bibliotaph, a portrait not wholly imaginary -- The bibliotaph,
+  his friends, scrapbooks, and 'bins' -- Last words on the bibliotaph -- Thomas Hardy
+  -- A reading in the letters of John Keats -- An Elizabethan novelist -- The autobiography
+  of a fair-minded man -- Concerning a red waistcoat -- Stevenson, the vagabond and
+  the philosopher -- Stevenson's St. Ives.
+title: The Bibliotaph, and Other People
+url: http://www.gutenberg.org/ebooks/21272
